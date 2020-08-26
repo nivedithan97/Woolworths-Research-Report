@@ -1,2 +1,2 @@
 # Woolworths-Research-Report
-I will be writing an equity research report covering Woolworths and a related company Coles.
+The equity research report involves comparing the firms’ performance and prospects, and valuation and recommendation of their common stocks using the relative valuation model.
